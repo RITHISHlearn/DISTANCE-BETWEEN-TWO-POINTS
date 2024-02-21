@@ -32,7 +32,8 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![image](https://github.com/RITHISHlearn/DISTANCE-BETWEEN-TWO-POINTS/assets/145446645/8672cf2a-5da2-4993-be5c-8126850743bf)
+
+![image](https://github.com/RITHISHlearn/DISTANCE-BETWEEN-TWO-POINTS/assets/145446645/b824dce1-d6ff-422c-9a0c-00780cf766af)
 
 
 ### RESULT:
